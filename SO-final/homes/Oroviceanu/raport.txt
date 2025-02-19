@@ -1,0 +1,5 @@
+ Raportul pentru utilizatorul Oroviceanu
+-----------------------------------------------
+Numărul de fișiere: 1
+Numărul de directoare: 1
+Dimensiunea totală a fișierelor (în bytes): 8
